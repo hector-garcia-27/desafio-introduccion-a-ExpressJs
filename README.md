@@ -1,5 +1,5 @@
 Integrantes:
 
-Jhonny Quevedo
-Hendy Castro
+Jhonny Quevedo,
+Hendy Castro,
 Hector Garcia
